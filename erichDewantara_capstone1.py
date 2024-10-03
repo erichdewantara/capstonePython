@@ -234,7 +234,7 @@ def readSubMenu_searchEmployee():
                 print("No input chosen")
         
         except ValueError:
-            ("Enter number only!")
+            print("Enter number only!")
 
 # func C
 def createMenu():
